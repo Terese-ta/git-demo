@@ -1,3 +1,3 @@
-git-demo
+#git & github Project
 
-My git project for new developers and DevOps Engineers
+#My project is designed to showcase vital git& github practices/tools for new developers and aspiring DevOps Engineers.
